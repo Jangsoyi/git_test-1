@@ -35,7 +35,7 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", date2.toString() );
 		
-		return "home";
+		return "DongJun";
 	}
 	
 }
